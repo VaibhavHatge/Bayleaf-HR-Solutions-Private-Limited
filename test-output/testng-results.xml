@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26563" started-at="2020-02-23T21:01:31 IST" finished-at="2020-02-23T21:01:58 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26563" started-at="2020-02-23T21:01:31 IST" finished-at="2020-02-23T21:01:58 IST">
+      <class name="com.qa.automation.tests.RegisterPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.automation.tests.RegisterPageTest@67b92f0a]" name="setUp" is-config="true" duration-ms="18681" started-at="2020-02-23T21:01:31 IST" finished-at="2020-02-23T21:01:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="registerUser()[pri:0, instance:com.qa.automation.tests.RegisterPageTest@67b92f0a]" name="registerUser" duration-ms="7008" started-at="2020-02-23T21:01:50 IST" finished-at="2020-02-23T21:01:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.automation.tests.RegisterPageTest@67b92f0a]" name="tearDown" is-config="true" duration-ms="810" started-at="2020-02-23T21:01:57 IST" finished-at="2020-02-23T21:01:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.automation.tests.RegisterPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
